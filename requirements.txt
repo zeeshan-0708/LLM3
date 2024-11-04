@@ -1,7 +1,7 @@
-streamlit==1.15.0
 google-generativeai==0.8.3
-SpeechRecognition==3.8.1
+streamlit==1.15.0
+speechrecognition==3.8.1
 Pillow==9.3.0
-requests
-python-dotenv
-jsonschema-specifications>=2023.11.2  
+requests==2.28.1
+python-dotenv==0.20.0
+
