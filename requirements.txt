@@ -1,4 +1,4 @@
-google-generativeai==0.8.3
+google-generativeai==0.7.2
 streamlit==1.15.0
 speechrecognition==3.8.1
 Pillow==9.3.0
