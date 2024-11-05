@@ -33,6 +33,7 @@ def analyze_image(image):
 
     if response.status_code == 200:
         result = response.json()
+        
         # Debugging: Print the raw response
         print("Response from image analysis API:", result)
         return result.get('description', 'No description available.')
